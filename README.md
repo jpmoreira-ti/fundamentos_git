@@ -24,8 +24,8 @@
 
 # git reset HEAD <nome do arquivo> (Remove o arquivo da staging area)
 
-# git checkout (Altera as branchs)
-# git checkout -b (Cria a branch e altera para a nova branch)
+# git checkout <nome da branch> (Altera para a branch selecionada)
+# git checkout -b <nome da branch> (Cria a branch e altera para a nova branch)
 # git checkout -- <nome do arquivo> (Volta o arquivo ao status original)
 
 # git rm <nome do arquivo> (Remove os arquivos desejados)
